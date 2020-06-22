@@ -1,0 +1,2 @@
+Add-Migration -Name InitialCreate  -ConnectionStringName DefaultConnection
+Update-Database  -ConnectionStringName DefaultConnection
